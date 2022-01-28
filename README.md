@@ -13,12 +13,11 @@ My final solution, contained in the Assignment01 folder, uses the Sieve of Erato
 On Linux:
 1. In a Terminal window, navigate to the same directory where you downloaded Program.cs
 2. Type:
-   sudo apt update
-   sudo apt install mono-complete
-   mcs -out:Program.exe Program.cs
-   mono Program.cs
-   
-3. The output file (primes.txt) will be located in the same directory where you placed Program.cs
+4. sudo apt update
+5. sudo apt install mono-complete
+6. mcs -out:Program.exe Program.cs
+7. mono Program.cs
+7. The output file (primes.txt) will be located in the same directory where you placed Program.cs
 
 
 On Visual Studio:
