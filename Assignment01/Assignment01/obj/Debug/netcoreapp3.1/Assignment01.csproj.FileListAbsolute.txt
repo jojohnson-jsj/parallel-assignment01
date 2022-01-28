@@ -1,0 +1,13 @@
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.exe
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.deps.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.runtimeconfig.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.runtimeconfig.dev.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\Assignment01.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.AssemblyInfoInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.AssemblyInfo.cs
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.csproj.CoreCompileInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment01-submission\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.genruntimeconfig.cache
